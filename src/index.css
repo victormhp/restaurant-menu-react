@@ -1,0 +1,89 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Flame";
+  src: url("/fonts/Flame-Regular.woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "FlameSans";
+  src: url("/fonts/FlameSans-Regular.woff2");
+  font-display: swap;
+}
+
+@layer base {
+  :root {
+    --background: 48 100% 96%;
+    --foreground: 20.909 92% 14%;
+    --card: 48 100% 96%;
+    --card-foreground: 20.909 92% 14%;
+    --popover: 48 100% 96%;
+    --popover-foreground: 20.909 92% 14%;
+    --primary: 21 92% 14%;
+    --primary-foreground: 48 100% 90%;
+    --secondary: 163 88% 20%;
+    --secondary-foreground: 21 92% 14%;
+    --muted: 48 97% 89%;
+    --muted-foreground: 21 92% 14%;
+    --accent: 48 97% 89%;
+    --accent-foreground: 21 92% 14%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 48 100% 90%;
+    --border: 48 97% 89%;
+    --input: 48 97% 89%;
+    --ring: 21 92% 14%;
+    --radius: 0.5rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-primary font-flamesans leading-5;
+  }
+}
+
+@layer utilities {
+  .container {
+    @apply w-[min(1110px,100%-2rem)];
+  }
+  .active {
+    @apply bg-secondary text-background;
+  }
+  .focusVisible {
+    @apply focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2;
+  }
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  font: inherit;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 117px;
+}
+
+img,
+svg {
+  width: 100%;
+}

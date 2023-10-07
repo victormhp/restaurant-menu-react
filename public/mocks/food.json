@@ -1,0 +1,219 @@
+[
+  {
+    "category": "mariscos",
+    "name": "Campechana",
+    "price": "200",
+    "image": "/images/mariscos-campechana.webp",
+    "description": "Un deliciosa coctel de mariscos con una mezcla de camarones, ostiones y más."
+  },
+  {
+    "category": "mariscos",
+    "name": "Pulpo Enamorado",
+    "price": "200",
+    "image": "/images/mariscos-pulpo.webp",
+    "description": "Pulpo a la parrilla servido con una sabrosa salsa."
+  },
+  {
+    "category": "mariscos",
+    "name": "Ceviche",
+    "price": "180",
+    "image": "/images/mariscos-ceviche.webp",
+    "description": "Ceviche fresco y sabroso hecho con pescado o mariscos, jugos cítricos y hierbas."
+  },
+  {
+    "category": "mariscos",
+    "name": "Agua Chile",
+    "price": "200",
+    "image": "/images/mariscos-aguachile.webp",
+    "description": "Plato de mariscos picante y refrescante con camarones, limón y chiles."
+  },
+  {
+    "category": "mariscos",
+    "name": "Tiritas de Pescado",
+    "price": "200",
+    "image": "/images/mariscos-tiritas.webp",
+    "description": "Pescado en tiras marinado en una salsa picante con cebolla y pimientos."
+  },
+  {
+    "category": "mariscos",
+    "name": "Ostiones",
+    "price": "250",
+    "image": "/images/mariscos-ostiones.webp",
+    "description": "Ostiones frescos servidos con una variedad de condimentos."
+  },
+  {
+    "category": "camarones",
+    "name": "Camarones a la Diabla",
+    "price": "200",
+    "image": "/images/camarones-diabla.webp",
+    "description": "Camarones cocinados en una salsa picante y sabrosa."
+  },
+  {
+    "category": "camarones",
+    "name": "Camarones al Mojo de Ajo",
+    "price": "180",
+    "image": "/images/camarones-ajo.webp",
+    "description": "Camarones en una salsa de ajo deliciosa."
+  },
+  {
+    "category": "camarones",
+    "name": "Camarones empanizados",
+    "price": "200",
+    "image": "/images/camarones-empanizados.webp",
+    "description": "Camarones empanizados y crujientes, perfectos para mojar."
+  },
+  {
+    "category": "camarones",
+    "name": "Camarones al Chingadazo",
+    "price": "200",
+    "image": "/images/camarones-chingadazo.webp",
+    "description": "Camarones con un sabor único y audaz."
+  },
+  {
+    "category": "pescados",
+    "name": "Pescado a la Parrilla",
+    "price": "230",
+    "image": "/images/pescados-parrilla.webp",
+    "description": "Pescado a la parrilla con una variedad de condimentos."
+  },
+  {
+    "category": "pescados",
+    "name": "Pescado a la Diabla",
+    "price": "200",
+    "image": "/images/pescados-diabla.webp",
+    "description": "Pescado cocinado en una salsa diabólicamente picante."
+  },
+  {
+    "category": "pescados",
+    "name": "Pescado al Mojo de Ajo",
+    "price": "180",
+    "image": "/images/pescados-ajo.webp",
+    "description": "Pescado servido con una salsa de ajo sabrosa."
+  },
+  {
+    "category": "pescados",
+    "name": "Pescado a la Talla",
+    "price": "230",
+    "image": "/images/pescados-talla.webp",
+    "description": "Pescado sazonado y cocido a la perfección."
+  },
+  {
+    "category": "pescados",
+    "name": "Pescado a la Mantequilla",
+    "price": "180",
+    "image": "/images/pescados-mantequilla.webp",
+    "description": "Pescado servido con una rica salsa de mantequilla."
+  },
+  {
+    "category": "pescados",
+    "name": "Pescadillas",
+    "price": "60",
+    "image": "/images/pescados-pescadillas.webp",
+    "description": "Pequeñas tortillas rellenas de pescado y otros ingredientes."
+  },
+  {
+    "category": "filetes",
+    "name": "Filete a la Diabla",
+    "price": "200",
+    "image": "/images/filetes-diabla.webp",
+    "description": "Filete de pescado cocinado en una salsa picante."
+  },
+  {
+    "category": "filetes",
+    "name": "Filete al Mojo de Ajo",
+    "price": "180",
+    "image": "/images/filetes-ajo.webp",
+    "description": "Filete de pescado en una salsa de ajo."
+  },
+  {
+    "category": "filetes",
+    "name": "Filete empanizado",
+    "price": "180",
+    "image": "/images/filetes-empanizado.webp",
+    "description": "Filete de pescado empanizado, crujiente y delicioso."
+  },
+  {
+    "category": "filetes",
+    "name": "Relleno de marisco",
+    "price": "220",
+    "image": "/images/filetes-relleno.webp",
+    "description": "Relleno de mariscos, un plato sabroso y abundante."
+  },
+  {
+    "category": "bebidas",
+    "name": "Michelada",
+    "price": "100",
+    "image": "/images/bebidas-micheladas.webp",
+    "description": "Una mezcla de sabores con opciones de mango, tamarindo, versión cubana y la clásica."
+  },
+  {
+    "category": "bebidas",
+    "name": "Piña Colada",
+    "price": "80",
+    "image": "/images/bebidas-pina.webp",
+    "description": "Un cóctel tropical y cremoso con la dulzura de la piña."
+  },
+  {
+    "category": "bebidas",
+    "name": "Refrescos",
+    "price": "25",
+    "image": "/images/bebidas-refresco.webp",
+    "description": "Refrescos variados que incluyen Coca Cola, Yoli, Fanta, Fresca, Sprite y Sidral para satisfacer tu sed."
+  },
+  {
+    "category": "bebidas",
+    "name": "Aguafresca",
+    "price": "35",
+    "image": "/images/bebidas-aguafresca.webp",
+    "description": "Aguas frescas con opciones de piña, pepino, jamaica y horchata para refrescarte con sabores auténticos y naturales."
+  },
+  {
+    "category": "bebidas",
+    "name": "Agua de Coco",
+    "price": "25",
+    "image": "/images/bebidas-coco.webp",
+    "description": "Disfruta de agua de coco, una bebida refrescante y natural que te transportará a la playa."
+  },
+  {
+    "category": "bebidas",
+    "name": "Cerveza",
+    "price": "25",
+    "image": "/images/bebidas-cerveza.webp",
+    "description": "Elige entre Victoria y Corona para acompañar tus platillos."
+  },
+  {
+    "category": "combos",
+    "name": "Combo Agarrate",
+    "price": "2600",
+    "image": "/images/combo-agarrate.webp",
+    "imageDialog": "/images/combo-agarrate-dialog.webp"
+  },
+  {
+    "category": "combos",
+    "name": "Combo Peda",
+    "price": "1600",
+    "image": "/images/combo-peda.webp",
+    "imageDialog": "/images/combo-peda-dialog.webp"
+  },
+  {
+    "category": "combos",
+    "name": "Combo y la queso",
+    "price": "3600",
+    "image": "/images/combo-queso.webp",
+    "imageDialog": "/images/combo-queso-dialog.webp"
+  },
+  {
+    "category": "combos",
+    "name": "Combo Fiesta",
+    "price": "2800",
+    "image": "/images/combo-fiesta.webp",
+    "imageDialog": "/images/combo-fiesta-dialog.webp"
+  },
+  {
+    "category": "combos",
+    "name": "Combo Familiar",
+    "price": "2200",
+    "image": "/images/combo-familiar.webp",
+    "imageDialog": "/images/combo-familiar-dialog.webp"
+  }
+]
